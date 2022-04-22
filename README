@@ -31,7 +31,7 @@
 
 
 
-* Now, we can't build docker image in Swarm Stack, have created already app image - himurthi/flaskapp:latest
+* Now, we can't build docker image in Swarm Stack, have created already app image - cloudids/flaskapp:latest
 
 * If not available, just create and push and use same
 
